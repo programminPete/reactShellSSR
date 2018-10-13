@@ -1,0 +1,1 @@
+React ServerSide rendering shell for my personal projects. Initial client side and server side bundles set up, react router initialized.
